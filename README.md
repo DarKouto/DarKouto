@@ -2,9 +2,9 @@
 
 ## 🚀 Projetos em Destaque:
 
-* **[Documentação CachyOS](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Repositório pessoal onde registo todas as descobertas, testes e configurações que fiz na minha mudança para Linux.
-* **[MEC: MaqeEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** O projeto full-stack a ser reescrito de base, um e-commerce de máquinas industriais.
-* **[Desacork](https://github.com/darkouto/desacork):** Aplicação frontend da minha empresa, feita em React.JS e Material UI.
+* **[MEC: MaqeEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Aplicação full-stack. Um e-commerce de máquinas industriais.
+* **[Documentação CachyOS](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentção com todas as descobertas, testes e configurações que fiz na minha mudança para Linux.
+* **[Desacork](https://github.com/darkouto/desacork):** Aplicação frontend da minha empresa, em desenvolvimento com em React.JS e Material UI.
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
 
