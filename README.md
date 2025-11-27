@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
+
 <!--
 **DarKouto/DarKouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
