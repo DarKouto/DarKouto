@@ -2,8 +2,8 @@
 
 ## 🚀 Projetos em Destaque:
 
-* **[MEC: MaqeEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Aplicação full-stack. Um e-commerce de máquinas industriais.
-* **[Documentação CachyOS](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentação e Guia de Instalação do CachyOS Linux em PT-PT.
+* **[MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Aplicação full-stack. Um e-commerce de máquinas industriais.
+* **[Documentação CachyOS Linux](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentação e Guia de Instalação do CachyOS Linux em PT-PT.
 * **[Desacork](https://github.com/darkouto/desacork):** Aplicação frontend da minha empresa, ainda em desenvolvimento com em React.JS e Material UI.
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
@@ -33,8 +33,6 @@ Bem-vindo ao meu canto no GitHub. Sou um entusiasta de **Tecnologia**, **Linux**
 
 * **Nacionalidade:** Português 🇵🇹
 * **Línguas:** Fluente em Inglês.
-* **Gaming:** Ávido *gamer* e utilizador de **Proton** no Linux.
-* **Interesses:** Videojogos, Anime, Motas, Metal, e um bom humor corrosivo 😉.
 ---
 *Encontra-me no LinkedIn ou contacta-me por email se tiveres alguma questão ou oportunidade interessante!*
 -->
