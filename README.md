@@ -1,11 +1,7 @@
 # Daniel Couto (DarKouto)
 
-## 🚀 Projetos em Destaque:
+## 🚀 Featured Repos
 
-* **[MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Aplicação full-stack. Um e-commerce de máquinas industriais.
-* **[Documentação CachyOS Linux](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentação e Guia de Instalação do CachyOS Linux em PT-PT.
-* **[Desacork](https://github.com/darkouto/desacork):** Aplicação frontend da minha empresa, ainda em desenvolvimento com em React.JS e Material UI. (Possível migração para Vue.JS)
----
 * **[MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Full-stack web application. E-commerce of industrial Machines.
 * **[CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
 * **[Desacork](https://github.com/darkouto/desacork):** Frontend web app of my company, still in development React.JS e Material UI. (Possible migration to Vue.JS)
