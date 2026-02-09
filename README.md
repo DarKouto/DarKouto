@@ -2,7 +2,7 @@
 
 ## 🚀 Featured Repos
 
-* **[MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Full-stack web application. E-commerce of industrial Machines.
+* **[MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Full-stack web application. E-commerce of industrial Machines. React.JS and Python/Flask.
 * **[CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
 * **[Desacork](https://github.com/darkouto/desacork):** Frontend web app of my company, still in development React.JS e Material UI. (Possible migration to Vue.JS)
 
