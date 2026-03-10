@@ -9,6 +9,11 @@
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
 
+<img src="https://github.com/DarKouto/DarKouto/blob/main/screen1.jpg" width=700>
+<img src="https://github.com/DarKouto/DarKouto/blob/main/screen2.jpg" width=700>
+<img src="https://github.com/DarKouto/DarKouto/blob/main/screen3.png" width=700>
+<img src="https://github.com/DarKouto/DarKouto/blob/main/screen4.png" width=700>
+
 <!--
 Here are some ideas to get you started:
 
