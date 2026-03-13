@@ -9,7 +9,7 @@
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
 ---
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/045f3760-408a-4a49-bb18-383d7bdeb361/thumbnail" >
 </p>
 <!--
