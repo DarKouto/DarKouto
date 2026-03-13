@@ -8,7 +8,10 @@
 * **[Desacork](https://github.com/darkouto/desacork):** Frontend web app of my company, still in development React.JS and Material UI. (Possible migration to Vue.JS and Vuetify)
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
-
+---
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/045f3760-408a-4a49-bb18-383d7bdeb361/thumbnail" >
+</p>
 <!--
 Here are some ideas to get you started:
 
