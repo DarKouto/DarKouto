@@ -4,9 +4,9 @@
 
 * **[⚙️ MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Full-stack web application. E-commerce of industrial Machines. React.JS and Python/Flask.
 * **[🏭 Desacork.com](https://github.com/darkouto/desacork):** Front-end web application of my company, developed with Vue.JS and Vuetify.
-* **[🐧 CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
+* **[🟢 CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
 * **[🖥️ Shell Scripts](https://github.com/DarKouto/shell-scripts):** Various Bash/Shell Scripts that automate my workflow process.
-* **[🔨 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
+* **[🐧 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
 
 
 
