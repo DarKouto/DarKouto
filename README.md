@@ -1,8 +1,7 @@
 # Daniel Couto (DarKouto)
-- 🖥️ Indie Programmer 
-- 🐧 Linux Power User
-- 🟢 @CachyOS Contributor
-- 🐹 Diving into Go
+- I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining Systems.
+- **Comfortable with:** Python 🐍, JavaScript, Bash.
+- **Currently:** Diving into Go 🐹
 
 ## 🚀 Featured Repos
 
