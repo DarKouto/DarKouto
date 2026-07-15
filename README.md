@@ -1,5 +1,5 @@
 # Daniel Couto (DarKouto)
-I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining Systems.
+Indie Programmer/Developer. Interested in Linux, backend and maintaining systems.
 
 ## Core Tech:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
