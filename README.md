@@ -1,4 +1,8 @@
 # Daniel Couto (DarKouto)
+- 🖥️ Indie Programmer 
+- 🐧 Linux Power User
+- 🟢 @CachyOS Contributor
+- 🐹 Diving into Go
 
 ## 🚀 Featured Repos
 
