@@ -1,14 +1,17 @@
 # Daniel Couto (DarKouto)
 I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining Systems.
 
-## **Core Tech:**
+## Core Tech:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CachyOS](https://img.shields.io/badge/CachyOS-00AA88?style=for-the-badge&logo=cachyos&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## **Diving into:**
+## AUR - lyra-music-bin
+![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin)
+
+## Diving into:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
@@ -20,6 +23,7 @@ I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining S
 * **[🖥️ Shell Scripts](https://github.com/DarKouto/shell-scripts):** Various Bash/Shell Scripts that automate my workflow process.
 * **[🐧 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
 
+![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin)
 
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
@@ -27,28 +31,3 @@ I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining S
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/045f3760-408a-4a49-bb18-383d7bdeb361/thumbnail" >
 </p>
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-Bem-vindo ao meu canto no GitHub. Sou um entusiasta de **Tecnologia**, **Linux** e **Desenvolvimento Web**, com um percurso não-convencional que me trouxe da gestão industrial de cortiça de volta ao mundo da informática.
----
-## 🧠 O que ando a fazer e a aprender:
-* **Linux e DevOps:** Utilizador de **CachyOS** (Arch-based). A explorar ativamente **Docker** e **Kubernetes** para mergulhar no mundo DevOps e em certificações como **CKA**.
-* **Web Development:** A refazer o site da [maqespinhocork.com](https://github.com/darkouto/maqespinhocork-react-flask) (React, Flask, MySQL) e a desenvolver o frontend da [Desacork](https://github.com/darkouto/desacork-frontend) (React.js, Material UI).
-* **Linguagens & Ferramentas:** Sólidos conhecimentos de **Linux CLI**. A estudar **Python** (Boot.Dev) e a trabalhar com **React**, **Flask**, **MySQL**, **git/GitHub**.
----
-## 🕹️ Curiosidades e Hobbies:
-
-* **Nacionalidade:** Português 🇵🇹
-* **Línguas:** Fluente em Inglês.
----
-*Encontra-me no LinkedIn ou contacta-me por email se tiveres alguma questão ou oportunidade interessante!*
--->
