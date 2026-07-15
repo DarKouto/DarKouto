@@ -8,9 +8,6 @@ I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining S
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## AUR - lyra-music-bin
-![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin)
-
 ## Diving into:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -22,6 +19,10 @@ I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining S
 * **[🟢 CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
 * **[🖥️ Shell Scripts](https://github.com/DarKouto/shell-scripts):** Various Bash/Shell Scripts that automate my workflow process.
 * **[🐧 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
+
+## AUR - lyra-music-bin
+![AUR Maintainer](https://img.shields.io/aur/maintainer/lyra-music-bin)
+![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin)
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
 ---
