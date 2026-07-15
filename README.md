@@ -21,8 +21,8 @@ I'm an Indie Programmer/Developer interested in Linux, Backend and Maintaining S
 * **[🐧 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
 
 ## 🔵 AUR ![AUR Maintainer](https://img.shields.io/aur/maintainer/lyra-music-bin)
-* **[🎵 Lyra Music](https://aur.archlinux.org/packages/lyra-music-bin?style=for-the-badge):** The Desktop version on the Lyra Music App on the AUR
-![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin?style=for-the-badge)
+* **[🎵 Lyra Music](https://aur.archlinux.org/packages/lyra-music-bin):** The Desktop version on the Lyra Music App on the AUR
+![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin)
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
 ---
