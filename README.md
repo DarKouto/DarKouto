@@ -1,5 +1,5 @@
 # Daniel Couto (DarKouto)
-Indie Programmer/Developer. Interested in Linux, backend and maintaining systems.
+I'm an independent Programmer/Developer. Interested in Linux, backend and maintaining systems. And Gaming. Forklift Certified 🚜
 
 ## Core Tech:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -10,7 +10,7 @@ Indie Programmer/Developer. Interested in Linux, backend and maintaining systems
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Diving into:
+## Diving Into:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
