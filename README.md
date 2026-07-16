@@ -21,7 +21,7 @@ I'm an independent Programmer/Developer. Interested in Linux, backend and mainta
 * **[🟢 CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
 * **[🖥️ Shell Scripts](https://github.com/DarKouto/shell-scripts):** Various Bash/Shell Scripts that automate my workflow process.
 * **[🐧 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
-* **[🚀 Asteroids GOTY Edition](https://github.com/DarKouto/asteroids-bootdev-goty):**: Clone of the classic Asteroids game in Python, my own Goty edition. Work in progress.
+* **[🚀 Asteroids GOTY Edition](https://github.com/DarKouto/asteroids-bootdev-goty):** Clone of the classic Asteroids game in Python, my own GOTY edition. Work in progress.
 
 ## 🔵 AUR ![AUR Maintainer](https://img.shields.io/aur/maintainer/lyra-music-bin)
 * **[🎵 Lyra Music](https://aur.archlinux.org/packages/lyra-music-bin):** The Desktop version on the Lyra Music App on the AUR
