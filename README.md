@@ -14,13 +14,14 @@ I'm an independent Programmer/Developer. Interested in Linux, backend and mainta
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## 🚀 Featured Repos
+## 🖥️ Featured Repos
 
 * **[⚙️ MEC: MaqEspinhoCork.com](https://github.com/darkouto/maqespinhocork25):** Full-stack web application. E-commerce of industrial Machines. React.JS and Python/Flask.
 * **[🏭 Desacork.com](https://github.com/darkouto/desacork):** Front-end web application of my company, developed with Vue.JS and Vuetify.
 * **[🟢 CachyOS Linux Documentation](https://github.com/darkouto/guia-instalacao-linux-pt-pt):** Documentation and Install guide for CachyOS Linux in PT-PT Language.
 * **[🖥️ Shell Scripts](https://github.com/DarKouto/shell-scripts):** Various Bash/Shell Scripts that automate my workflow process.
 * **[🐧 Linux Contributions](https://github.com/DarKouto/linux-contributions):** Personal log of Linux Contributions and their process.
+* **[🚀 Asteroids GOTY Edition](https://github.com/DarKouto/asteroids-bootdev-goty):**: Clone of the classic Asteroids game in Python, my own Goty edition. Work in progress.
 
 ## 🔵 AUR ![AUR Maintainer](https://img.shields.io/aur/maintainer/lyra-music-bin)
 * **[🎵 Lyra Music](https://aur.archlinux.org/packages/lyra-music-bin):** The Desktop version on the Lyra Music App on the AUR
