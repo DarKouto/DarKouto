@@ -24,7 +24,7 @@ I'm an independent Programmer/Developer. Interested in Linux, backend and mainta
 * **[🚀 Asteroids GOTY Edition](https://github.com/DarKouto/asteroids-bootdev-goty):** Clone of the classic Asteroids game in Python, my own GOTY edition. Work in progress.
 
 ## 🔵 AUR ![AUR Maintainer](https://img.shields.io/aur/maintainer/lyra-music-bin)
-* **[🎵 Lyra Music](https://aur.archlinux.org/packages/lyra-music-bin):** PKGBUILD for the Desktop version on the Lyra Music App on the AUR.
+* **[🎵 Lyra Music](https://aur.archlinux.org/packages/lyra-music-bin):** PKGBUILD for the Desktop version of the Lyra Music AppImage on the AUR.
 ![AUR Last Modified](https://img.shields.io/aur/last-modified/lyra-music-bin)
 
 ![Honest Work](https://i.kym-cdn.com/entries/icons/mobile/000/028/021/work.jpg)
