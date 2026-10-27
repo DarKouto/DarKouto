@@ -15,7 +15,7 @@ I'm an independent Programmer/Developer. Interested in Linux, backend and mainta
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws?style=for-the-badge&logoColor=fff)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 
 ## 🖥️ Featured Repos
